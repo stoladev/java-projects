@@ -1,0 +1,6 @@
+name: sdSingleSleep
+version: 0.1
+api-version: 1.16
+author: Michael Stolarz (stoladev)
+main: me.stoladev.sdSingleSleep.Main
+description: A simple plugin that allows 1 person to sleep and move the server to daytime.
